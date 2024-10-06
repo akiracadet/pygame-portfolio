@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.whl
+
+# Pygame specific files (include your assets)
+# Uncomment these lines to track asset files
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.bmp
+# *.wav
+# *.mp3
+# *.ogg
+# *.ttf
+# *.otf
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
